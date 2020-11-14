@@ -4,7 +4,7 @@ title: Setting up Tools, and Creating Your First Project
 sidebar_label: Create Your First Project
 ---
 
-This guide will help you install the tools necessary for creating your first interactive experience with React 360. 
+This guide will help you to install the tools necessary for creating your first interactive experience with React 360. 
 
 Before getting started, you'll need to install Node.js. While React 360 runs in your web browser, the build pipeline that bundles up your code relies on Node.
 
